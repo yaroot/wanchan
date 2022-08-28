@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+
+target/
+.bloop/
+.bsp/
+.metals/
+
+metals.sbt
